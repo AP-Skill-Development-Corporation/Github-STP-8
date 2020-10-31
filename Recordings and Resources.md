@@ -7,3 +7,5 @@
 [Day 3](https://transcripts.gotomeeting.com/#/s/da029c0b685f48b0693a4cd8c77916c637c1acad62cd61664951e172f81791ed)
 
 [Day 4](https://transcripts.gotomeeting.com/#/s/9f91309d831d7f9940ddeced45778771be723c1920e749b57cd1b1de026475cc)
+
+[Day 5](https://transcripts.gotomeeting.com/#/s/2350f7a51e469eff5cb73226dfdbc294bec3364edb835971b9f28c5ace6fbe53)
